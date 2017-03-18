@@ -1,2 +1,4 @@
 # hello-world
-some interesting thoughts
+
+Hello, humans!
+I'm going to figure out what does it all mean so.. lets do this shit.
